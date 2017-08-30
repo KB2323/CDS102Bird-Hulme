@@ -1,0 +1,61 @@
+---
+title: "Lab 1 - Learning to use Github and RMarkdown"
+author: "Your name"
+date: "Date of lab session"
+output:
+  html_document:
+    fig_height: 4
+    highlight: tango
+    self_contained: yes
+    theme: paper
+  pdf_document:
+    highlight: tango
+    keep_tex: no
+    number_sections: no
+    toc: no
+geometry:
+- letterpaper
+- margin=1in
+indent: no
+fontsize: 10pt
+colorlinks: yes
+---
+
+```{r setup, include=FALSE}
+# DO NOT ALTER CODE IN THIS CHUNK
+library(tidyverse)
+```
+
+* * *
+
+## Lab report
+
+## Exercises
+
+#### Exercise 1
+
+
+
+#### Exercise 2
+
+
+
+#### Exercise 3
+
+
+
+#### Exercise 4
+
+
+
+#### Exercise 5
+
+
+
+#### Exercise 6
+
+
+
+#### Exercise 7
+
+
