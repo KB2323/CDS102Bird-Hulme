@@ -1,4 +1,4 @@
----
+----
 title: "Lab 1 - Learning to use Github and RMarkdown"
 author: "Your name"
 date: "Date of lab session"
